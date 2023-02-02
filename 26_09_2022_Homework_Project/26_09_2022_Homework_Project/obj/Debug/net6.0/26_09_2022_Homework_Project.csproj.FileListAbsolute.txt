@@ -1,0 +1,75 @@
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.exe
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.deps.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.runtimeconfig.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\refint\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_2\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\ref\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\refint\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.exe
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\ref\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.exe
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.deps.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.runtimeconfig.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\refint\26_09_2022_Homework_Project.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\ref\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\refint\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.exe
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\ref\26_09_2022_Homework_Project.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.exe
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.deps.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.runtimeconfig.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\bin\Debug\net6.0\26_09_2022_Homework_Project.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.AssemblyReference.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfoInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.AssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.csproj.CoreCompileInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\refint\26_09_2022_Homework_Project.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\26_09_2022_Homework_Project.genruntimeconfig.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\26_09_2022_Homework_Project\26_09_2022_Homework_Project\obj\Debug\net6.0\ref\26_09_2022_Homework_Project.dll

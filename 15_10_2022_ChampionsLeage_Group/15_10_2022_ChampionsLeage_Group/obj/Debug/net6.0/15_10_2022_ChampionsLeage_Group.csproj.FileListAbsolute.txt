@@ -1,0 +1,45 @@
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.exe
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\refint\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\ref\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.exe
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\refint\15_10_2022_ChampionsLeage_Group.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\ref\15_10_2022_ChampionsLeage_Group.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.exe
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.deps.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.runtimeconfig.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\bin\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.AssemblyReference.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfoInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.AssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.csproj.CoreCompileInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\refint\15_10_2022_ChampionsLeage_Group.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\15_10_2022_ChampionsLeage_Group.genruntimeconfig.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\15_10_2022_ChampionsLeage_Group\15_10_2022_ChampionsLeage_Group\obj\Debug\net6.0\ref\15_10_2022_ChampionsLeage_Group.dll

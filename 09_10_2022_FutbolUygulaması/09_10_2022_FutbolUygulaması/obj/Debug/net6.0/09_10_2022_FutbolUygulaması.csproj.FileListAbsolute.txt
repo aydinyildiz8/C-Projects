@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\bin\Debug\net6.0\09_10_2022_FutbolUygulaması.exe
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\bin\Debug\net6.0\09_10_2022_FutbolUygulaması.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\bin\Debug\net6.0\09_10_2022_FutbolUygulaması.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\bin\Debug\net6.0\09_10_2022_FutbolUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\bin\Debug\net6.0\09_10_2022_FutbolUygulaması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\refint\09_10_2022_FutbolUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\09_10_2022_FutbolUygulaması.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_FutbolUygulaması\09_10_2022_FutbolUygulaması\obj\Debug\net6.0\ref\09_10_2022_FutbolUygulaması.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "15_10_2022_ChampionsLeage_Group/1.0.0": {
+        "runtime": {
+          "15_10_2022_ChampionsLeage_Group.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15_10_2022_ChampionsLeage_Group/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

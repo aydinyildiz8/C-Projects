@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "02_10_2022_SinemaÖrnek_EvÇalışması/1.0.0": {
+        "runtime": {
+          "02_10_2022_SinemaÖrnek_EvÇalışması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_10_2022_SinemaÖrnek_EvÇalışması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

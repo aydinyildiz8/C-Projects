@@ -1,0 +1,30 @@
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.exe
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\refint\09_10_2022_ÖğrenciUygulaması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Ev Çalışmaları\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\ref\09_10_2022_ÖğrenciUygulaması.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.exe
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.deps.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.runtimeconfig.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\bin\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.csproj.AssemblyReference.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.AssemblyInfoInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.AssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.csproj.CoreCompileInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\refint\09_10_2022_ÖğrenciUygulaması.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\09_10_2022_ÖğrenciUygulaması.genruntimeconfig.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\C#\09_10_2022_ÖğrenciUygulaması\09_10_2022_ÖğrenciUygulaması\obj\Debug\net6.0\ref\09_10_2022_ÖğrenciUygulaması.dll

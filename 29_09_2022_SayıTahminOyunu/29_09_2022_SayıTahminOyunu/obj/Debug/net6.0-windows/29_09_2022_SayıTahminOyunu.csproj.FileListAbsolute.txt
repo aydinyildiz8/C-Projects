@@ -1,0 +1,51 @@
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.exe
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.deps.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.runtimeconfig.json
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\_29_09_2022_SayıTahminOyunu.Form1.resources
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\refint\29_09_2022_SayıTahminOyunu.dll
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\dotNetProject\Week_3\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\ref\29_09_2022_SayıTahminOyunu.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.exe
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\_29_09_2022_SayıTahminOyunu.Form1.resources
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.GenerateResource.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\refint\29_09_2022_SayıTahminOyunu.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\ref\29_09_2022_SayıTahminOyunu.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.exe
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.deps.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.runtimeconfig.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\bin\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.AssemblyReference.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\_29_09_2022_SayıTahminOyunu.Form1.resources
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.GenerateResource.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfoInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.AssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.csproj.CoreCompileInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\refint\29_09_2022_SayıTahminOyunu.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\29_09_2022_SayıTahminOyunu.genruntimeconfig.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Week3_AY\29_09_2022_SayıTahminOyunu\29_09_2022_SayıTahminOyunu\obj\Debug\net6.0-windows\ref\29_09_2022_SayıTahminOyunu.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_10_2022_EmlakUygylaması_Form", "05_10_2022_EmlakUygylaması_Form\05_10_2022_EmlakUygylaması_Form.csproj", "{FF58C4B4-BB05-42DE-999E-56335047C688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF58C4B4-BB05-42DE-999E-56335047C688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF58C4B4-BB05-42DE-999E-56335047C688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF58C4B4-BB05-42DE-999E-56335047C688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF58C4B4-BB05-42DE-999E-56335047C688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F794610-C978-4C4E-BFDB-CE6AA75045C0}
+	EndGlobalSection
+EndGlobal
